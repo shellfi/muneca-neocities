@@ -11,8 +11,8 @@
     "pic name"
     "pic username"
     "pic bio";
-  grid-template-columns: 1fr 75%;
-  grid-template-rows: repeat(3, minmax(min-content, calc(100% / 3)));
+  grid-template-columns: 1fr 62%;
+  grid-template-rows: repeat(auto-fill, minmax(50px, 1fr));
 }
 
 #header > * {
@@ -22,7 +22,7 @@
 #header a {
   grid-area: pic;
   display: block;
-  height: 200px;
+  height: 100%;
   width: 5em;
   overflow: hidden;
 }
@@ -43,6 +43,10 @@
 
 #header #bio {
   grid-area: bio;
+}
+
+#name, #username, #bio {
+  max-height: 200px;
 }
 
 .post {
