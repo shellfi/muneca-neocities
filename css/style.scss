@@ -23,8 +23,8 @@ body {
     "aside-l main aside-r"
     "aside-l main aside-r"
     "footer footer footer";
-  grid-template-columns: 1fr 65% 1fr;
-  grid-template-rows: 80px repeat(2, 1fr) 30px;
+  grid-template-columns: 1fr 55% 1fr;
+  grid-template-rows: 110px repeat(2, 1fr) 30px;
 }
 
 .main-container > * {
