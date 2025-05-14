@@ -103,5 +103,75 @@
     { "name": "HEADWAY", "url": "Headway.ttf", "class": "headway big" },
     { "name": "Hey Comic", "url": "Hey%20Comic.otf", "class": "hey-comic" },
     { "name": "Husky Stash", "url": "husky-stash.ttf", "class": "husky-stash" }
+  ],
+  "i": [
+    { "name": "Info Story", "url": "InfoStory.otf", "class": "info-story" },
+    { "name": "inkverse", "url": "InkVerse.ttf", "class": "inkverse" },
+    { "name": "Insomnyacs", "url": "Insomnyacs.otf", "class": "insomnyacs" }
+  ],
+  "j": [
+    { "name": "Jojoba", "url": "Jojoba.otf", "class": "jojoba" },
+    { "name": "Junegull", "url": "junegull.otf", "class": "junegull" }
+  ],
+  "k": [
+    { "name": "Keyute", "url": "keyute.regular.otf", "class": "keyute" },
+    { "name": "Kimura", "url": "Kimura.otf", "class": "kimura" },
+    { "name": "Kinky", "url": "KINKY.otf", "class": "kinky" },
+    { "name": "Kiwi Soda", "url": "KiwiSoda.ttf", "class": "kiwi-soda" },
+    { "name": "Kollera", "url": "Kollera.otf", "class": "kollera" }
+  ],
+  "l": [
+    { "name": "LAKUNA", "url": "Lakuna.otf", "class": "lakuna big" },
+    { "name": "lazy dog", "url": "Lazydog.otf", "class": "lazy-dog" },
+    { "name": "Leentank", "url": "Leentank.otf", "class": "leentank" },
+    { "name": "Leentank Star", "url": "LeentankStar.otf", "class": "leentank-s" },
+    { "name": "Lemon Days", "url": "LEMONB.ttf", "class": "lemon-days" },
+    { "name": "Little Devil", "url": "LittleDevil.ttf", "class": "little-devil" },
+    { "name": "Lonely Bridges", "url": "LonelyBridges.otf", "class": "lonely-bridges" }
+  ],
+  "m": [
+    { "name": "Magic Retro", "url": "MagicRetro.ttf", "class": "magic-retro" },
+    { "name": "Marshland Beauty", "url": "MarshlandBeauty.ttf", "class": "marshland-beauty" },
+    { "name": "Mellow Melody", "url": "MellowMelody-Regular.otf", "class": "mellow-melody big" },
+    { "name": "Michelle", "url": "Michelle.otf", "class": "michelle" },
+    { "name": "Mogilte", "url": "Mogilte.otf", "class": "mogilte" },
+    { "name": "MoonChild", "url": "Moonchild.otf", "class": "moonchild big" }
+  ],
+  "n": [
+    { "name": "Neat Handwriting", "url": "NeatHandwriting.otf", "class": "neat-handwriting" },
+    { "name": "neon blitz", "url": "Neonblitz.otf", "class": "neon-blitz big" },
+    { "name": "Neopixel", "url": "NEOPIXEL.otf", "class": "neopixel" },
+    { "name": "Neo Syber", "url": "Neo-Syber-Regular.otf", "class": "neo-syber small" },
+    { "name": "Neo Syber Outline", "url": "Neo-Syber-RegularOutline.otf", "class": "neo-syber-o small" },
+    { "name": "New Ramen", "url": "NewRamen.otf", "class": "new-ramen" },
+    { "name": "Nexa Extra Light", "url": "Nexa-ExtraLight.ttf", "class": "nexa" },
+    { "name": "Nexa Heavy", "url": "Nexa-Heavy.ttf", "class": "nexa-h" },
+    { "name": "Noisy Walk", "url": "NoisyWalk.ttf", "class": "noisy-walk" }
+  ],
+  "o": [
+    { "name": "Oaklash", "url": "Oaklash.ttf", "class": "oaklash" },
+    { "name": "Octuple Max", "url": "Octuple-max.ttf", "class": "octuple-max" },
+    { "name": "Old Newspaper Types", "url": "OldNewspaperTypes.ttf", "class": "old-newspaper-types" },
+    { "name": "Onyxia", "url": "Onyxia.otf", "class": "onyxia" },
+    { "name": "orith", "url": "OrithDisplay-Regular.woff2", "class": "orith" }
+  ],
+  "p": [
+    { "name": "paperkut", "url": "Paperkut.otf", "class": "paperkut" },
+    { "name": "paperkut bold", "url": "Paperkut-Bold.otf", "class": "paperkut-b" },
+    { "name": "paperkut pixel", "url": "Paperkut-Pixel.ttf", "class": "paperkut-p" },
+    { "name": "paperkut pixel bold", "url": "Paperkut-PixelBold.ttf", "class": "paperkut-pb" },
+    { "name": "Paradizo", "url": "Paradizo.otf", "class": "paradizo" },
+    { "name": "Paris Avenue", "url": "Paris-Avenue.ttf", "class": "paris-avenue" },
+    { "name": "Pingsan", "url": "Pingsan.otf", "class": "pingsan" },
+    { "name": "planet bubble", "url": "PLANB.TTF", "class": "planet-bubble big" },
+    { "name": "Planet Estyle", "url": "PLANE.TTF", "class": "planet-estyle" },
+    { "name": "planet kosmos", "url": "PLANK.TTF", "class": "planet-kosmos" },
+    { "name": "planet megapolis", "url": "PLANM.TTF", "class": "planet-megapolis" },
+    { "name": "planet tricolore", "url": "PLANT.TTF", "class": "planet-tricolore" },
+    { "name": "play this game", "url": "play%20this%20game.ttf", "class": "play-this-game small" },
+    { "name": "project space", "url": "Project-Space.otf", "class": "project-space small" },
+    { "name": "protomo", "url": "Protomo.otf", "class": "protomo" },
+    { "name": "protomo outline", "url": "Protomo-Outline.otf", "class": "protomo-o" },
+    { "name": "Psychatronic", "url": "psycha3.ttf", "class": "psychatronic" }
   ]
 }
