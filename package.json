@@ -6,5 +6,9 @@
   },
   "scripts": {
     "build": "npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "webpack": "^5.99.8",
+    "webpack-cli": "^6.0.1"
   }
 }
