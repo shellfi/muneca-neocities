@@ -1,4 +1,25 @@
 .profilePic {
-    height: 4em;
-    width: 4em;
+  height: 4em;
+  width: 4em;
+}
+
+#container {
+  margin: 0 auto;
+  max-width: 400px;
+}
+
+#header {
+  height: 200px;
+  width: 100%;
+  display: grid;
+  grid-template-areas:
+    "pic name"
+    "pic username"
+    "pic bio";
+  grid-template-columns: 1fr 75%;
+  grid-template-rows: repeat(3, minmax(min-content, max-content));
+}
+
+.post {
+  border: 1px solid black;
 }
