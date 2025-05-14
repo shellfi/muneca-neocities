@@ -12,7 +12,7 @@
     "pic username"
     "pic bio";
   grid-template-columns: 1fr 75%;
-  grid-template-rows: repeat(3, minmax(min-content, max-content));
+  grid-template-rows: repeat(3, minmax(min-content, calc(100% / 3)));
 }
 
 #header > * {
