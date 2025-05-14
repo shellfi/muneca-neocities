@@ -20,8 +20,21 @@
   grid-template-rows: repeat(3, minmax(min-content, max-content));
 }
 
+#header > * {
+  border: 1px solid red;
+}
+
 #header a {
   grid-area: pic;
+  display: block;
+  height: 100%;
+  width: 100%;
+}
+
+#header a img {
+  object-fit: cover;
+  height: 100%;
+  width: auto;
 }
 
 #header #name {
