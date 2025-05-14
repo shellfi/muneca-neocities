@@ -9,10 +9,10 @@
       content="my site where I talk about myself, my interests, and upload a bunch of fonts"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="/css/style.css" />
-    <link rel="stylesheet" href="/css/utility.css" />
+    <link rel="stylesheet" href="/css/style.css{{ nocache }}" />
+    <link rel="stylesheet" href="/css/utility.css{{ nocache }}" />
     {% if font_page %}
-    <link rel="stylesheet" href="/css/fonts/{{ font_style }}" />
+    <link rel="stylesheet" href="/css/fonts/{{ font_style }}{{ nocache }}" />
     {% endif %}
   </head>
   <body class="flex justify-center align-center">
@@ -37,6 +37,6 @@
         <footer></footer>
       </div>
     </div>
-    <script src="/js/script.js" async defer></script>
+    <script src="/js/script.js{{ nocache }}" async defer></script>
   </body>
 </html>
