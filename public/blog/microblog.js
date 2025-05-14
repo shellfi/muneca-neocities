@@ -7,7 +7,7 @@
 
 // Config
 var DisplayLatestPosts = 0;
-var RSSLink = "microblog.xml";
+var RSSLink = "/microblog.xml";
 var MicroblogDivID = "";
 var DisplaySubscribe = 1;
 var SubscribeText = "Follow";

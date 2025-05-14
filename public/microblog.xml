@@ -3,18 +3,26 @@
 <channel>
   <title>microblog</title>
   <description>just a microblog where i talk about random stuff</description>
-  <link>https://muneca.neocities.org/blog/microblog</link>
+  <link>https://muneca.neocities.org/microblog</link>
   <webmaster>
     angela
-    <img src="./squirrel.jpg" />
+    <img src="/blog/squirrel.jpg" />
   </webmaster>
   <generator>@muneca</generator>
+
+ <item>
+    <guid isPermaLink="false">1</guid>
+    <title>second microblog post (test)</title>
+    <pubDate>Wed, 14 May 2025 15:48:22 +0000</pubDate>
+    <link>https://muneca.neocities.org/microblog#1</link>
+    <description></description>
+  </item>
 
  <item>
     <guid isPermaLink="false">0</guid>
     <title>first microblog post (test)</title>
     <pubDate>Wed, 14 May 2025 15:18:29 +0000</pubDate>
-    <link>https://muneca.neocities.org/blog/microblog#0</link>
+    <link>https://muneca.neocities.org/microblog#0</link>
     <description></description>
   </item>
 
