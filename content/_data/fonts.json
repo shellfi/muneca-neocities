@@ -1,0 +1,106 @@
+{
+  "no": [
+    { "name": "04B_11", "url": "04B_11.TTF", "class": "O4B_11" },
+    { "name": "04b_19", "url": "04B_19.TTF", "class": "O4b_19" },
+    { "name": "04b_25", "url": "04b_25.ttF", "class": "O4b_25" },
+    { "name": "04B_30", "url": "04B_30.TTF", "class": "O4b_30" },
+    { "name": "04b03", "url": "04B_03.TTF", "class": "O4b03" },
+    { "name": "13 Misa", "url": "13_Misa.TTF", "class": "I3-Misa" },
+    { "name": "1UP!", "url": "1up.ttf", "class": "Iup" }
+  ],
+  "a": [
+    { "name": "Adorable Doll", "url": "AdorableDoll.ttf", "class": "adorable-doll" },
+    { "name": "After Punk", "url": "AfterPunk.otf", "class": "after-punk" },
+    { "name": "akira", "url": "Akira-Expanded-Demo.otf", "class": "akira" },
+    { "name": "Alice in Wonderland", "url": "Alice_in_Wonderland.ttf", "class": "alice-in-wonderland" },
+    { "name": "Alkhemikal", "url": "Alkhemikal.ttf", "class": "alkhemikal" },
+    { "name": "Aloevera", "url": "Aloevera.ttf", "class": "aloevera" },
+    { "name": "Angelic Alchemy", "url": "AngelicAlchemy.ttf", "class": "angelic-alchemy big" },
+    { "name": "angels", "url": "Angels.ttf", "class": "angels" },
+    { "name": "anticode", "url": "Anticode.ttf", "class": "anticode" },
+    { "name": "Antistroke", "url": "Antistroke.otf", "class": "antistroke big" },
+    { "name": "antology", "url": "Antology.ttf", "class": "antology" },
+    { "name": "ANOMEGA", "url": "Anomega.ttf", "class": "anomega" },
+    { "name": "arcade", "url": "ARCADE_I.TTF", "class": "arcade small" },
+    { "name": "arcade solid", "url": "ARCADE_N.TTF", "class": "arcade-s small" },
+    { "name": "arcade smooth", "url": "ARCADE_R.TTF", "class": "arcade-sm small" },
+    { "name": "astonia", "url": "Astonia.otf", "class": "astonia" }
+  ],
+  "b": [
+    { "name": "Back wild", "url": "Back-Wild.woff2", "class": "back-wild" },
+    { "name": "Baratheon", "url": "Baratheon.otf", "class": "baratheon" },
+    { "name": "benn", "url": "Benn.otf", "class": "benn" },
+    { "name": "BENORD", "url": "Benord.otf", "class": "benord" },
+    { "name": "bicrode", "url": "BICRODEPERSONALUSE.ttf", "class": "bicrode" },
+    { "name": "black nebula", "url": "BlackNebula.ttf", "class": "black-nebula" },
+    { "name": "Brutalism", "url": "y2k-brutalism.otf", "class": "brutalism small" },
+    { "name": "BT Brainstorm", "url": "BT-Brainstorm-Marker.ttf", "class": "bt-brainstorm" },
+    { "name": "Bulgaria Ligatura", "url": "Bulgaria_Ligatura.otf", "class": "bulgaria-ligatura" },
+    { "name": "Bulito", "url": "Bulito.ttf", "class": "bulito" }
+  ],
+  "c": [
+    { "name": "cageroll cage", "url": "Cageroll-Cage.otf", "class": "cageroll-c" },
+    { "name": "cageroll roll", "url": "Cageroll-Roll.otf", "class": "cageroll-r" },
+    { "name": "CANDY BEANS", "url": "Candy-Beans.otf", "class": "candy-beans" },
+    { "name": "cassandra", "url": "CassandraTwo.ttf", "class": "cassandra" },
+    { "name": "Catways", "url": "Catways.otf", "class": "catways" },
+    { "name": "CHEERFUL PEACH", "url": "CheerfulPeach.otf", "class": "cheerful-peach" },
+    { "name": "Cherry Bomb", "url": "CherryBombOne-Regular.ttf", "class": "cherry-bomb" },
+    { "name": "Chocolate donuts", "url": "Chocolate%20Donuts.otf", "class": "chocolate-donuts" },
+    { "name": "circo", "url": "circo.otf", "class": "circo" },
+    { "name": "Computerfont", "url": "Computerfont.ttf", "class": "computerfont" },
+    { "name": "crunch chips", "url": "Crunch%20Chips.otf", "class": "crunch-chips" },
+    { "name": "CYBER", "url": "cYBER.ttf", "class": "cyber" },
+    { "name": "cyrivendell", "url": "Cyrivendell", "class": "cyrivendell" }
+  ],
+  "d": [
+    { "name": "daily note", "url": "Daily%20Note.otf", "class": "daily-note" },
+    { "name": "Dalfitra", "url": "Dalfitra.otf", "class": "dalfitra" },
+    { "name": "DARK FUTURE", "url": "Dark-Future.ttf", "class": "dark-future" },
+    { "name": "demon", "url": "DEMON-Regular.otf", "class": "demon" },
+    { "name": "Depixel", "url": "depixel.woff2", "class": "depixel small" },
+    { "name": "digibop", "url": "DigiBop-Regular.otf", "class": "digibop" },
+    { "name": "digifit", "url": "DIGIFIT.TTF", "class": "digifit" },
+    { "name": "digistick", "url": "Digistick-Regular.otf", "class": "digistick" },
+    { "name": "Digital Disco", "url": "DigitalDisco.ttf", "class": "digital-disco" },
+    { "name": "dimitri", "url": "DIMIS_.TTF", "class": "dimitri" },
+    { "name": "dimitri solid", "url": "DIMITRI_.TTF", "class": "dimitri-s" },
+    { "name": "Dino Care", "url": "DinoCare.otf", "class": "dino-care" },
+    { "name": "dojebi", "url": "Dojebi.otf", "class": "dojebi big" },
+    { "name": "Double Homicide", "url": "DoubleHomicide.ttf", "class": "double-homicide" },
+    { "name": "Dreamcatcher", "url": "Dreamcatcher.otf", "class": "dreamcatcher" }
+  ],
+  "e": [
+    { "name": "easy 3d", "url": "Easy%203D.ttf", "class": "easy-3d" },
+    { "name": "Esse Grotesk", "url": "Esse_Grotesk.otf", "class": "esse-grotesk" },
+    { "name": "Estrella", "url": "Estrella-Early.otf", "class": "estrella wide big" },
+    { "name": "excelorate", "url": "Excelorate-Font.otf", "class": "excelorate" }
+  ],
+  "f": [
+    { "name": "Felgine", "url": "felgine.otf", "class": "felgine" },
+    { "name": "fiFTiES moVies", "url": "Fifties%20Movies.ttf", "class": "fifties-movies" },
+    { "name": "FIGHT!", "url": "FIGHT.otf", "class": "fight big" },
+    { "name": "Funkydori", "url": "Funkydori.woff2", "class": "funkydori big short" }
+  ],
+  "g": [ 
+    { "name": "GeMsTonE", "url": "Gemstone.ttf", "class": "gemstone" },
+    { "name": "Gencity", "url": "Gencity.otf", "class": "gencity" },
+    { "name": "Gerad", "url": "gerad-regular.otf", "class": "gerad" },
+    { "name": "ghetto", "url": "ghetto.ttf", "class": "ghetto small tall" },
+    { "name": "Giallo Chiaro", "url": "GialloChiaro.ttf", "class": "giallo-chiaro" },
+    { "name": "Glamor", "url": "Glamor.otf", "class": "glamor" },
+    { "name": "Glamor Bold", "url": "Glambor-Bold.otf", "class": "glamor-b" },
+    { "name": "Gothical", "url": "Gothical.ttf", "class": "gothical big" },
+    { "name": "Gothular", "url": "Gothular_Regular.otf", "class": "gothular" },
+    { "name": "Grafier", "url": "Grafier.otf", "class": "grafier" },
+    { "name": "GRAPHIK ARTS", "url": "Graphik-Arts.ttf", "class": "graphik-arts" },
+    { "name": "GRAVESTONE", "url": "Gravestone-Demo.otf", "class": "gravestone" }
+  ],
+  "h": [
+    { "name": "hanazome", "url": "hanazome.ttf", "class": "hanazome" },
+    { "name": "Handineat", "url": "Handineat.otf", "class": "handineat" },
+    { "name": "HEADWAY", "url": "Headway.ttf", "class": "headway big" },
+    { "name": "Hey Comic", "url": "Hey%20Comic.otf", "class": "hey-comic" },
+    { "name": "Husky Stash", "url": "husky-stash.ttf", "class": "husky-stash" }
+  ]
+}

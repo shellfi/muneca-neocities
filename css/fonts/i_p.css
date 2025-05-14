@@ -1,0 +1,592 @@
+/* ---------------------------------- font imports ---------------------------------- */
+
+/* -----------------
+I ------------------
+----------------- */
+
+@font-face {
+  font-family: "Info Story";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/InfoStory.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Inkverse";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/InkVerse.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Insomnyacs";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Insomnyacs.otf")
+    format("opentype");
+}
+
+/* -----------------
+J ------------------
+----------------- */
+
+@font-face {
+  font-family: "Jojoba";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Jojoba.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Junegull";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/junegull.otf")
+    format("opentype");
+}
+
+/* -----------------
+K ------------------
+----------------- */
+
+@font-face {
+  font-family: "Keyute";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/keyute.regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Kimura";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Kimura.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Kinky";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/KINKY.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Kiwi Soda";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/KiwiSoda.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Kollera";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Kollera.otf")
+    format("opentype");
+}
+
+/* -----------------
+L ------------------
+----------------- */
+
+@font-face {
+  font-family: "Lakuna";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Lakuna.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Lazy Dog";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Lazydog.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Leentank";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Leentank.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Leentank Star";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/LeentankStar.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Lemon Days";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/LEMONB.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Little Devil";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/LittleDevil.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Lonely Bridges";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/LonelyBridges.otf")
+    format("opentype");
+}
+
+/* -----------------
+M ------------------
+----------------- */
+
+@font-face {
+  font-family: "Magic Retro";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/MagicRetro.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Marshland Beauty";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/MarshlandBeauty.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Mellow Melody";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/MellowMelody-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Michelle";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Michelle.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Mogilte";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Mogilte.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Moonchild";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Moonchild.otf")
+    format("opentype");
+}
+
+/* -----------------
+N ------------------
+----------------- */
+
+@font-face {
+  font-family: "Neat Handwriting";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/NeatHandwriting.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Neon Blitz";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Neonblitz.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Neo Syber";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Neo-Syber-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Neo Syber Outline";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Neo-Syber-RegularOutline.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Neopixel";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/NEOPIXEL.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "New Ramen";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/NewRamen.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Nexa Extra Light";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Nexa-ExtraLight.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Nexa Heavy";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Nexa-Heavy.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Noisy Walk";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/NoisyWalk.ttf")
+    format("truetype");
+}
+
+/* -----------------
+O ------------------
+----------------- */
+
+@font-face {
+  font-family: "Oaklash";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Oaklash.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Octuple Max";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Octuple-max.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Old Newspaper Types";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/OldNewspaperTypes.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Onyxia";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Onyxia.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Orith";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/OrithDisplay-Regular.woff2")
+    format("woff2");
+}
+
+/* -----------------
+P ------------------
+----------------- */
+
+@font-face {
+  font-family: "Paperkut";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Paperkut.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Paperkut Bold";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Paperkut-Bold.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Paperkut Pixel";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Paperkut-Pixel.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Paperkut Pixel Bold";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Paperkut-PixelBold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Paradizo";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Paradizo.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Paris Avenue";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Paris-Avenue.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Pingsan";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Pingsan.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Planet Bubble";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/PLANB.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "Planet Kosmos";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/PLANK.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "Planet Megapolis";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/PLANM.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "Planet Tricolore";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/PLANT.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "Play This Game";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/play%20this%20game.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Project Space";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Project-Space.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Psychatronic";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/psycha3.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Protomo";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Protomo.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Protomo Outline";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Protomo-Outline.otf")
+    format("opentype");
+}
+
+/* ---------------------------------- font sections ---------------------------------- */
+
+/* -----------------
+I ------------------
+----------------- */
+
+.info-story {
+  font-family: "Info Story";
+}
+
+.inkverse {
+  font-family: "Inkverse";
+}
+
+.insomnyacs {
+  font-family: "Insomnyacs";
+}
+
+/* -----------------
+J ------------------
+----------------- */
+
+.jojoba {
+  font-family: "Jojoba";
+}
+
+.junegull {
+  font-family: "Junegull";
+}
+
+/* -----------------
+K ------------------
+----------------- */
+
+.keyute {
+  font-family: "Keyute";
+}
+
+.kimura {
+  font-family: "Kimura";
+}
+
+.kinky {
+  font-family: "Kinky";
+}
+
+.kiwi-soda {
+  font-family: "Kiwi Soda";
+}
+
+.kollera {
+  font-family: "Kollera";
+}
+
+/* -----------------
+L ------------------
+----------------- */
+
+.lakuna {
+  font-family: "Lakuna";
+}
+
+.lazy-dog {
+  font-family: "Lazy Dog";
+}
+
+.leentank {
+  font-family: "Leentank";
+}
+
+.leentank-s {
+  font-family: "Leentank Star";
+}
+
+.lemon-days {
+  font-family: "Lemon Days";
+}
+
+.little-devil {
+  font-family: "Little Devil";
+}
+
+.lonely-bridges {
+  font-family: "Lonely Bridges";
+}
+
+/* -----------------
+M ------------------
+----------------- */
+
+.magic-retro {
+  font-family: "Magic Retro";
+}
+
+.marshland-beauty {
+  font-family: "Marshland Beauty";
+}
+
+.mellow-melody {
+  font-family: "Mellow Melody";
+}
+
+.michelle {
+  font-family: "Michelle";
+}
+
+.mogilte {
+  font-family: "Mogilte";
+}
+
+.moonchild {
+  font-family: "Moonchild";
+}
+
+/* -----------------
+N ------------------
+----------------- */
+
+.neat-handwriting {
+  font-family: "Neat Handwriting";
+}
+
+.neo-syber {
+  font-family: "Neo Syber";
+}
+
+.neo-syber-o {
+  font-family: "Neo Syber Outline";
+}
+
+.neon-blitz {
+  font-family: "Neon Blitz";
+}
+
+.neopixel {
+  font-family: "Neopixel";
+}
+
+.new-ramen {
+  font-family: "New Ramen";
+}
+
+.nexa {
+  font-family: "Nexa Extra Light";
+}
+
+.nexa-h {
+  font-family: "Nexa Heavy";
+}
+
+.noisy-walk {
+  font-family: "Noisy Walk";
+}
+
+/* -----------------
+O ------------------
+----------------- */
+
+.oaklash {
+  font-family: "Oaklash";
+}
+
+.octuple-max {
+  font-family: "Octuple Max";
+}
+
+.old-newspaper-types {
+  font-family: "Old Newspaper Types";
+}
+
+.onyxia {
+  font-family: "Onyxia";
+}
+
+.orith {
+  font-family: "Orith";
+}
+
+/* -----------------
+P ------------------
+----------------- */
+
+.paperkut {
+  font-family: "Paperkut";
+}
+
+.paperkut-b {
+  font-family: "Paperkut Bold";
+}
+
+.paperkut-p {
+  font-family: "Paperkut Pixel";
+}
+
+.paperkut-pb {
+  font-family: "Paperkut Pixel Bold";
+}
+
+.paradizo {
+  font-family: "Paradizo";
+}
+
+.paris-avenue {
+  font-family: "Paris Avenue";
+}
+
+.pingsan {
+  font-family: "Pingsan";
+}
+
+.planet-bubble {
+  font-family: "Planet Bubble";
+}
+
+.planet-estyle {
+  font-family: "Planet Estyle";
+}
+
+.planet-kosmos {
+  font-family: "Planet Kosmos";
+}
+
+.planet-megapolis {
+  font-family: "Planet Megapolis";
+}
+
+.planet-tricolore {
+  font-family: "Planet Tricolore";
+}
+
+.play-this-game {
+  font-family: "Play This Game";
+}
+
+.project-space {
+  font-family: "Project Space";
+}
+
+.protomo {
+  font-family: "Protomo";
+}
+
+.protomo-o {
+  font-family: "Protomo Outline";
+}
+
+.psychatronic {
+  font-family: "Psychatronic";
+}

@@ -1,0 +1,534 @@
+/* ---------------------------------- font imports ---------------------------------- */
+
+/* -----------------
+Q ------------------
+----------------- */
+
+@font-face {
+  font-family: "Quadaptor";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/quadaptor.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Quantico";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Quantico-Regular.ttf")
+    format("truetype");
+}
+
+/* -----------------
+R ------------------
+----------------- */
+
+@font-face {
+  font-family: "Racing Sans";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/RacingSansOne-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Ralders";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Ralders.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Rameyon";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Rameyon.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Rascon";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Rascon.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Retro Writers";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/RetroWriters.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Retrome";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Retrome.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Rinterland";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Rinterland.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Romance A";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/RomanceA.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Romántica";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/romantica.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Rosela";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Rosela.ttf") format("truetype");
+}
+
+/* -----------------
+S ------------------
+----------------- */
+
+@font-face {
+  font-family: "Sacramento";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Sacramento.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Saflers";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Saflers.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Sake Moru";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/SakeMoru.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Sephyr";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/SephyrRegular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Sister Spray";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/SisterSpray.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Sixty Niners";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/SixtyNiners.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Sky Rocket";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Sky-Rocket.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "SLADE";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/SLADE.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Sofachrome";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/sofachrome-rg.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Squashy Flow";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Squashy%20Flow.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Starshines";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Starshines.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Static Age";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/stat_ft.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Strawberry Muffins";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Strawberry%20Muffins%20Demo.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Swamp Death";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Swamp%20Death.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Synkopy";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Synkopy-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Synkopy Flipside";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Synkopy-Flipside.otf")
+    format("opentype");
+}
+
+/* -----------------
+T ------------------
+----------------- */
+
+@font-face {
+  font-family: "Team 401";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Team%20401.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Teenage Rockstar";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Teenage-Rockstar.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Thunder";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Thunder-BlackLC.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Toxigenesis";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/toxigenesis.otf")
+    format("opentype");
+}
+
+/* -----------------
+U ------------------
+----------------- */
+
+@font-face {
+  font-family: "Unknow";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/unknow.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Urban Sketart";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/UrbanSketart.ttf")
+    format("truetype");
+}
+
+/* -----------------
+V ------------------
+----------------- */
+
+@font-face {
+  font-family: "Vahika";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Vahika.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Vanosky";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Vanosky.otf")
+    format("opentype");
+}
+
+/* -----------------
+W ------------------
+----------------- */
+
+@font-face {
+  font-family: "Water Resistant";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/WaterResistant.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "White on Black";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/White%20On%20Black.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Wreckside";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Wreckside.otf")
+    format("opentype");
+}
+
+/* -----------------
+X ------------------
+----------------- */
+
+@font-face {
+  font-family: "Xcelsion";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/xcelsion.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Xylitol";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Xylitol.otf")
+    format("opentype");
+}
+
+/* -----------------
+Y ------------------
+----------------- */
+
+@font-face {
+  font-family: "Yerk";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Yerk-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Yulio";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Yulio.otf") format("opentype");
+}
+
+/* -----------------
+Z ------------------
+----------------- */
+
+@font-face {
+  font-family: "Zephyre Conquer";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Zephyre_Conquer.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Zesty";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/ZESTY.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Zoi Mao";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/zoi.TTF") format("truetype");
+}
+
+/* ---------------------------------- font sections ---------------------------------- */
+
+/* -----------------
+Q ------------------
+----------------- */
+
+.quadaptor {
+  font-family: "Quadaptor";
+}
+
+.quantico {
+  font-family: "Quantico";
+}
+
+/* -----------------
+R ------------------
+----------------- */
+
+.racing-sans {
+  font-family: "Racing Sans";
+}
+
+.ralders {
+  font-family: "Ralders";
+}
+
+.rameyon {
+  font-family: "Rameyon";
+}
+
+.rascon {
+  font-family: "Rascon";
+}
+
+.retro-writers {
+  font-family: "Retro Writers";
+}
+
+.retrome {
+  font-family: "Retrome";
+}
+
+.rinterland {
+  font-family: "Rinterland";
+}
+
+.romance-a {
+  font-family: "Romance A";
+}
+
+.romantica {
+  font-family: "Romántica";
+}
+
+.rosela {
+  font-family: "Rosela";
+}
+
+/* -----------------
+S ------------------
+----------------- */
+
+.sacramento {
+  font-family: "Sacramento";
+}
+
+.saflers {
+  font-family: "Saflers";
+}
+
+.sake-moru {
+  font-family: "Sake Moru";
+}
+
+.sephyr {
+  font-family: "Sephyr";
+}
+
+.sister-spray {
+  font-family: "Sister Spray";
+}
+
+.sixty-niners {
+  font-family: "Sixty Niners";
+}
+
+.sky-rocket {
+  font-family: "Sky Rocket";
+}
+
+.slade {
+  font-family: "SLADE";
+}
+
+.sofachrome {
+  font-family: "Sofachrome";
+}
+
+.squashy-flow {
+  font-family: "Squashy Flow";
+}
+
+.starshines {
+  font-family: "Starshines";
+}
+
+.static-age {
+  font-family: "Static Age";
+}
+
+.strawberry-muffins {
+  font-family: "Strawberry Muffins";
+}
+
+.swamp-death {
+  font-family: "Swamp Death";
+}
+
+.synkopy {
+  font-family: "Synkopy";
+}
+
+.synkopy-f {
+  font-family: "Synkopy Flipside";
+}
+
+/* -----------------
+T ------------------
+----------------- */
+
+.team-401 {
+  font-family: "Team 401";
+}
+
+.teenage-rockstar {
+  font-family: "Teenage Rockstar";
+}
+
+.thunder {
+  font-family: "Thunder";
+}
+
+.toxigenesis {
+  font-family: "Toxigenesis";
+}
+
+/* -----------------
+U ------------------
+----------------- */
+
+.unknow {
+  font-family: "Unknow";
+}
+
+.urban-sketart {
+  font-family: "Urban Sketart";
+}
+
+/* -----------------
+V ------------------
+----------------- */
+
+.vahika {
+  font-family: "Vahika";
+}
+
+.vanosky {
+  font-family: "Vanosky";
+}
+
+/* -----------------
+W ------------------
+----------------- */
+
+.water-resistant {
+  font-family: "Water Resistant";
+}
+
+.white-on-black {
+  font-family: "White on Black";
+}
+
+.wreckside {
+  font-family: "Wreckside";
+}
+
+/* -----------------
+X ------------------
+----------------- */
+
+.xcelsion {
+  font-family: "Xcelsion";
+}
+
+.xylitol {
+  font-family: "Xylitol";
+}
+
+/* -----------------
+Y ------------------
+----------------- */
+
+.yerk {
+  font-family: "Yerk";
+}
+
+.yulio {
+  font-family: "Yulio";
+}
+
+/* -----------------
+Z ------------------
+----------------- */
+
+.zephyre-conquer {
+  font-family: "Zephyre Conquer";
+}
+
+.zesty {
+  font-family: "Zesty";
+}
+
+.zoi-mao {
+  font-family: "Zoi Mao";
+}

@@ -1,0 +1,927 @@
+/* ---------------------------------- font imports ---------------------------------- */
+
+/* -----------------
+# ------------------
+----------------- */
+
+@font-face {
+  font-family: "04B_11";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/04B_11.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "04b_19";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/04B_19.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "04b_25";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/04b_25.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "04b_30";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/04B_30.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "04b03";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/04B_03.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "13 Misa";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/13_Misa.TTF")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "1up!";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/1up.ttf") format("truetype");
+}
+
+/* -----------------
+A ------------------
+----------------- */
+
+@font-face {
+  font-family: "Adorable Doll";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/AdorableDoll.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "After Punk";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/AfterPunk.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Akira";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Akira-Expanded-Demo.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Alkhemikal";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Alkhemikal.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Aloevera";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Aloevera.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Alice in Wonderland";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Alice_in_Wonderland.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Angelic Alchemy";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/AngelicAlchemy.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Angels";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Angels.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Anomega";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Anomega.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Anticode";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Anticode.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Antistroke";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Antistroke.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Antology";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Antology.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Arcade";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/ARCADE_I.TTF")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Arcade Solid";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/ARCADE_N.TTF")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Arcade Smooth";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/ARCADE_R.TTF")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Astonia";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Astonia.otf")
+    format("opentype");
+}
+
+/* -----------------
+B ------------------
+----------------- */
+
+@font-face {
+  font-family: "Back Wild";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Back-Wild.woff2")
+    format("woff2");
+}
+
+@font-face {
+  font-family: "Baratheon";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Baratheon.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Benn";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Benn.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Benord";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Benord.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Bicrode";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/BICRODE.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Black Nebula";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/BlackNebula.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Brutalism";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/y2k-brutalism.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "BT Brainstorm";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/BT-Brainstorm-Marker.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Bulgaria Ligatura";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Bulgaria_Ligatura.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Bulito";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Bulito.ttf") format("truetype");
+}
+
+/* -----------------
+C ------------------
+----------------- */
+
+@font-face {
+  font-family: "Cageroll";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Cageroll-Standard.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Cageroll Cage";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Cageroll-Cage.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Cageroll Roll";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Cageroll-Roll.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Candy Beans";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Candy-Beans.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Cassandra";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/CassandraTwo.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Catways";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Catways.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Cheerful Peach";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/CheerfulPeach.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Cherry Bomb";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/CherryBombOne-Regular.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Chocolate Donuts";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Chocolate%20Donuts.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Circo";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/circo.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Computerfont";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Computerfont.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Crunch Chips";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Crunch%20Chips.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Cyber";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/CYBER.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Cyrivendell";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Cyrivendell.ttf")
+    format("truetype");
+}
+
+/* -----------------
+D ------------------
+----------------- */
+
+@font-face {
+  font-family: "Daily Note";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Daily%20Note.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Dalfitra";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Dalfitra.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Dark Future";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Dark-Future.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Demon";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DEMON-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Depixel";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/depixel.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "Digibop";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DigiBop-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Digifit";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DIGIFIT.TTF")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Digistick";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Digistick-Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Digital Disco";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DigitalDisco.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Dimitri";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DIMIS_.TTF") format("truetype");
+}
+
+@font-face {
+  font-family: "Dimitri Solid";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DIMITRI_.TTF")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Dino Care";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DinoCare.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Double Homicide";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/DoubleHomicide.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Dojebi";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Dojebi.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Dreamcatcher";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Dreamcatcher.otf")
+    format("opentype");
+}
+
+/* -----------------
+E ------------------
+----------------- */
+
+@font-face {
+  font-family: "Easy 3D";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Easy%203D.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Esse Grotesk";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Esse_Grotesk.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Estrella";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Estrella-Early.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Excelorate";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Excelorate-Font.otf")
+    format("opentype");
+}
+
+/* -----------------
+F ------------------
+----------------- */
+
+@font-face {
+  font-family: "Felgine";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/felgine.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Fifties Movies";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Fifties%20Movies.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Fight!";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/FIGHT.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Funkydori";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Funkydori.woff2")
+    format("woff2");
+}
+
+/* -----------------
+G ------------------
+----------------- */
+
+@font-face {
+  font-family: "Gemstone";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Gemstone.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Gencity";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Gencity.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Gerad";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/gerad-regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Ghetto";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/ghetto.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Giallo Chiaro";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/GialloChiaro.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Glamor";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Glamor.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Glamor Bold";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Glamor-Bold.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Gothical";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Gothical.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Gothular";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Gothular_Regular.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Grafier";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Grafier.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Graphik Arts";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Graphik-Arts.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Gravestone";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Gravestone-Demo.otf")
+    format("opentype");
+}
+
+/* -----------------
+H ------------------
+----------------- */
+
+@font-face {
+  font-family: "Hanazome";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/hanazome.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Handineat";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Handineat.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Headway";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Headway.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "Hey Comic";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Hey%20Comic.otf")
+    format("opentype");
+}
+
+@font-face {
+  font-family: "Husky Stash";
+  src: url("https://file.garden/ZRgh3nzfnhFDJvPp/husky-stash.ttf")
+    format("truetype");
+}
+
+/* ---------------------------------- section fonts ---------------------------------- */
+
+/* -----------------
+# ------------------
+----------------- */
+
+.O4B_11 {
+  font-family: "04B_11";
+}
+
+.O4b_19 {
+  font-family: "04b_19";
+}
+
+.O4b_25 {
+  font-family: "04b_25";
+}
+
+.O4b_30 {
+  font-family: "04b_30";
+}
+
+.O4b03 {
+  font-family: "04b03";
+}
+
+.I3-Misa {
+  font-family: "13 Misa";
+}
+
+.Iup {
+  font-family: "1up!";
+}
+
+/* -----------------
+A ------------------
+----------------- */
+
+.adorable-doll {
+  font-family: "Adorable Doll";
+}
+
+.after-punk {
+  font-family: "After Punk";
+}
+
+.akira {
+  font-family: "Akira";
+}
+
+.alice-in-wonderland {
+  font-family: "Alice in Wonderland";
+}
+
+.alkhemikal {
+  font-family: "Alkhemikal";
+}
+
+.aloevera {
+  font-family: "Aloevera";
+}
+
+.angelic-alchemy {
+  font-family: "Angelic Alchemy";
+}
+
+.angels {
+  font-family: "Angels";
+}
+
+.anomega {
+  font-family: "Anomega";
+}
+
+.anticode {
+  font-family: "Anticode";
+}
+
+.antistroke {
+  font-family: "Antistroke";
+}
+
+.antology {
+  font-family: "Antology";
+}
+
+.arcade {
+  font-family: "Arcade";
+}
+
+.arcade-s {
+  font-family: "Arcade Solid";
+}
+
+.arcade-sm {
+  font-family: "Arcade Smooth";
+}
+
+.astonia {
+  font-family: "Astonia";
+}
+
+/* -----------------
+B ------------------
+----------------- */
+
+.back-wild {
+  font-family: "Back Wild";
+}
+
+.baratheon {
+  font-family: "Baratheon";
+}
+
+.benn {
+  font-family: "Benn";
+}
+
+.benord {
+  font-family: "Benord";
+}
+
+.bicrode {
+  font-family: "Bicrode";
+}
+
+.black-nebula {
+  font-family: "Black Nebula";
+}
+
+.brutalism {
+  font-family: "Brutalism";
+}
+
+.bt-brainstorm {
+  font-family: "BT Brainstorm";
+}
+
+.bulgaria-ligatura {
+  font-family: "Bulgaria Ligatura";
+}
+
+.bulito {
+  font-family: "Bulito";
+}
+
+/* -----------------
+C ------------------
+----------------- */
+
+.cageroll {
+  font-family: "Cageroll";
+}
+
+.cageroll-c {
+  font-family: "Cageroll Cage";
+}
+
+.cageroll-r {
+  font-family: "Cageroll Roll";
+}
+
+.candy-beans {
+  font-family: "Candy Beans";
+}
+
+.cassandra {
+  font-family: "Cassandra";
+}
+
+.catways {
+  font-family: "Catways";
+}
+
+.cheerful-peach {
+  font-family: "Cheerful Peach";
+}
+
+.cherry-bomb {
+  font-family: "Cherry Bomb";
+}
+
+.chocolate-donuts {
+  font-family: "Chocolate Donuts";
+}
+
+.circo {
+  font-family: "Circo";
+}
+
+.computerfont {
+  font-family: "Computerfont";
+}
+
+.crunch-chips {
+  font-family: "Crunch Chips";
+}
+
+.cyber {
+  font-family: "Cyber";
+}
+
+.cyrivendell {
+  font-family: "Cyrivendell";
+}
+
+/* -----------------
+D ------------------
+----------------- */
+
+.daily-note {
+  font-family: "Daily Note";
+}
+
+.dalfitra {
+  font-family: "Dalfitra";
+}
+
+.dark-future {
+  font-family: "Dark Future";
+}
+
+.demon {
+  font-family: "Demon";
+}
+
+.depixel {
+  font-family: "Depixel";
+}
+
+.digibop {
+  font-family: "Digibop";
+}
+
+.digifit {
+  font-family: "Digifit";
+}
+
+.digistick {
+  font-family: "Digistick";
+}
+
+.digital-disco {
+  font-family: "Digital Disco";
+}
+
+.dimitri {
+  font-family: "Dimitri";
+}
+
+.dimitri-s {
+  font-family: "Dimitri Solid";
+}
+
+.dino-care {
+  font-family: "Dino Care";
+}
+
+.dojebi {
+  font-family: "Dojebi";
+}
+
+.double-homicide {
+  font-family: "Double Homicide";
+}
+
+.dreamcatcher {
+  font-family: "Dreamcatcher";
+}
+
+/* -----------------
+E ------------------
+----------------- */
+
+.easy-3d {
+  font-family: "Easy 3D";
+}
+
+.esse-grotesk {
+  font-family: "Esse Grotesk";
+}
+
+.estrella {
+  font-family: "Estrella";
+}
+
+.excelorate {
+  font-family: "Excelorate";
+}
+
+/* -----------------
+F ------------------
+----------------- */
+
+.felgine {
+  font-family: "Felgine";
+}
+
+.fifties-movies {
+  font-family: "Fifties Movies";
+}
+
+.fight {
+  font-family: "Fight!";
+}
+
+.funkydori {
+  font-family: "Funkydori";
+}
+
+/* -----------------
+G ------------------
+----------------- */
+
+.gemstone {
+  font-family: "Gemstone";
+}
+
+.gencity {
+  font-family: "Gencity";
+}
+
+.gerad {
+  font-family: "Gerad";
+}
+
+.ghetto {
+  font-family: "Ghetto";
+}
+
+.giallo-chiaro {
+  font-family: "Giallo Chiaro";
+}
+
+.glamor {
+  font-family: "Glamor";
+}
+
+.glamor-b {
+  font-family: "Glamor Bold";
+}
+
+.gothical {
+  font-family: "Gothical";
+}
+
+.gothular {
+  font-family: "Gothular";
+}
+
+.grafier {
+  font-family: "Grafier";
+}
+
+.graphik-arts {
+  font-family: "Graphik Arts";
+}
+
+.gravestone {
+  font-family: "Gravestone";
+}
+
+/* -----------------
+H ------------------
+----------------- */
+
+.hanazome {
+  font-family: "Hanazome";
+}
+
+.handineat {
+  font-family: "Handineat";
+}
+
+.headway {
+  font-family: "Headway";
+}
+
+.hey-comic {
+  font-family: "Hey Comic";
+}
+
+.husky-stash {
+  font-family: "Husky Stash";
+}

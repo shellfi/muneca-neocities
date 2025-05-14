@@ -1,0 +1,69 @@
+/* utility classes */
+
+/* sizing */
+
+.w-full {
+    width: 100%;
+}
+
+.h-full {
+    height: 100%;
+}
+
+/* flexbox/grid */
+
+.flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.align-center {
+  align-content: center;
+}
+
+.grid {
+  display: grid;
+}
+
+/* positioning */
+
+.centered {
+  margin: 0 auto;
+}
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+}
+
+/* font utilities */
+
+.small {
+  font-size: 0.8rem;
+}
+
+.big {
+  font-size: 1.5rem;
+}
+
+.short {
+  line-height: 0.75;
+}
+
+.tall {
+  line-height: 2.5;
+}
+
+.wide:not(.font-name) {
+  letter-spacing: 2px;
+}
