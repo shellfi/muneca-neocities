@@ -16,7 +16,7 @@ body {
 }
 
 .main-container {
-  height: max-content;
+  max-height: 800px;
   width: 85vw;
   grid-template-areas:
     "header header header"

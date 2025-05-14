@@ -173,5 +173,71 @@
     { "name": "protomo", "url": "Protomo.otf", "class": "protomo" },
     { "name": "protomo outline", "url": "Protomo-Outline.otf", "class": "protomo-o" },
     { "name": "Psychatronic", "url": "psycha3.ttf", "class": "psychatronic" }
+  ],
+  "q": [
+    { "name": "Quadaptor", "url": "quadaptor.otf", "class": "quadaptor" },
+    { "name": "Quantico", "url": "Quantico-Regular.otf", "class": "quantico" }
+  ],
+  "r": [
+    { "name": "Racing sans", "url": "RacingSansOne-Regular.ttf", "class": "racing-sans" },
+    { "name": "Ralders", "url": "Ralders.otf", "class": "ralders" },
+    { "name": "rameyon", "url": "Rameyon.otf", "class": "rameyon" },
+    { "name": "Rascon", "url": "Rascon.ttf", "class": "rascon" },
+    { "name": "Retro Writers", "url": "RetroWriters.otf", "class": "retro-writers" },
+    { "name": "RETROME", "url": "Retrome.otf", "class": "retrome" },
+    { "name": "Rinterland", "url": "Rinterland.otf", "class": "rinterland" },
+    { "name": "romántica", "url": "romantica.otf", "class": "romantica" },
+    { "name": "Romance A", "url": "RomanceA.ttf", "class": "romance-a" },
+    { "name": "ROSELA", "url": "Rosela.ttf", "class": "rosela" }
+  ],
+  "s": [
+    { "name": "Sacramento", "url": "Sacramento.ttf", "class": "sacramento" },
+    { "name": "Saflers", "url": "Saflers.woff", "class": "saflers" },
+    { "name": "Sake Moru", "url": "SakeMoru.ttf", "class": "sake-moru" },
+    { "name": "sephyr", "url": "SephyrRegular.otf", "class": "sephyr" },
+    { "name": "SIsTER SPRAY", "url": "SisterSpray.ttf", "class": "sister-spray small tall" },
+    { "name": "Sixty Niners", "url": "SixtyNiners.otf", "class": "sixty-niners" },
+    { "name": "sky rocket", "url": "Sky-Rocket.woff2", "class": "sky-rocket" },
+    { "name": "slade", "url": "SLADE.otf", "class": "slade" },
+    { "name": "sofachrome", "url": "sofachrome-rg.otf", "class": "sofachrome small" },
+    { "name": "squashy flow", "url": "Squashy%20Flow.ttf", "class": "squashy-flow small" },
+    { "name": "starshines", "url": "Starshines.otf", "class": "starshines" },
+    { "name": "Static Age", "url": "stat_ft.ttf", "class": "static-age" },
+    { "name": "Strawberry Muffins", "url": "Strawberry%20Muffins%20Demo.ttf", "class": "strawberry-muffins" },
+    { "name": "SWAMP DEATH", "url": "Swamp%20Death.ttf", "class": "swamp-death small tall" },
+    { "name": "synkopy", "url": "Synkopy-Regular.otf", "class": "synkopy" },
+    { "name": "synkopy flip", "url": "Synkopy-Flipside.otf", "class": "synkopy-f" }
+  ],
+  "t": [
+    { "name": "team 401", "url": "Team%20401.ttf", "class": "team-401 small tall" },
+    { "name": "Teenage Rockstar", "url": "Teenage-Rockstar.otf", "class": "teenage-rockstar" },
+    { "name": "THUNDER", "url": "Thunder-BlackLC.otf", "class": "thunder big" },
+    { "name": "Toxigenesis", "url": "toxigenesis.otf", "class": "toxigenesis" }
+  ],
+  "u": [
+    { "name": "unknow", "url": "unknow.woff2", "class": "unknow" },
+    { "name": "URBAN SKETART", "url": "UrbanSketart.ttf", "class": "urban-sketart" }
+  ],
+  "v": [
+    { "name": "Vahika", "url": "Vahika.otf", "class": "vahika" },
+    { "name": "vanosky", "url": "Vanosky.otf", "class": "vanosky" }
+  ],
+  "w": [
+    { "name": "Water Resistant", "url": "WaterResistant.ttf", "class": "water-resistant" },
+    { "name": "white on black", "url": "White%20On%20Black.ttf", "class": "white-on-black" },
+    { "name": "wreckside", "url": "Wreckside.otf", "class": "wreckside" }
+  ],
+  "x": [
+    { "name": "Xcelsion", "url": "xcelsion.otf", "class": "xcelsion" },
+    { "name": "Xylitol", "url": "Xylitol.otf", "class": "xylitol" }
+  ],
+  "y": [
+    { "name": "yerk", "url": "Yerk-Regular.otf", "class": "yerk" },
+    { "name": "Yulio", "url": "Yulio.otf", "class": "yulio" }
+  ],
+  "z": [
+    { "name": "Zephyre Conquer", "url": "Zephyre_Conquer.otf", "class": "zephyre-conquer" },
+    { "name": "zesty", "url": "ZESTY.otf", "class": "zesty" },
+    { "name": "zoi mao", "url": "zoi.TTF", "class": "zoi-mao big" }
   ]
 }
