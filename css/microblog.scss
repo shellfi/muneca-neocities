@@ -20,6 +20,22 @@
   grid-template-rows: repeat(3, minmax(min-content, max-content));
 }
 
+#header a {
+  grid-area: "pic";
+}
+
+#header #name {
+  grid-area: "name";
+}
+
+#header #username {
+  grid-area: "username";
+}
+
+#header #bio {
+  grid-area: "bio";
+}
+
 .post {
   border: 1px solid black;
 }
