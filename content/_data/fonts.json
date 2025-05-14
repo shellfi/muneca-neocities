@@ -39,6 +39,7 @@
     { "name": "Bulito", "url": "Bulito.ttf", "class": "bulito" }
   ],
   "c": [
+    { "name": "cageroll", "url": "Cageroll-Standard.otf", "class": "cageroll" },
     { "name": "cageroll cage", "url": "Cageroll-Cage.otf", "class": "cageroll-c" },
     { "name": "cageroll roll", "url": "Cageroll-Roll.otf", "class": "cageroll-r" },
     { "name": "CANDY BEANS", "url": "Candy-Beans.otf", "class": "candy-beans" },
