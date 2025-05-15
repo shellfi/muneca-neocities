@@ -3,7 +3,7 @@
 <channel>
   <title>microblog</title>
   <link>https://muneca.neocities.org/microblog</link>
-  <description>just a microblog where i talk about random stuff</description>
+  <description>angela's microblog</description>
   <webMaster>angela</webMaster>
   <generator>@muneca</generator>
   <image>
@@ -16,7 +16,7 @@
     <guid>1</guid>
     <title>second microblog post (test)</title>
     <pubDate>Wed, 14 May 2025 15:48:22 +0000</pubDate>
-    <link>https://muneca.neocities.org/microblog#1</link>
+    <link>https://muneca.neocities.org/blog/microblog</link>
     <description> </description>
   </item>
 

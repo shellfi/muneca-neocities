@@ -16,15 +16,23 @@ body {
 body {
   height: 100dvh;
   width: 100vw;
+  font-family: 'Trebuchet MS';
 }
 
 a, button, input, select {
   cursor: url("https://file.garden/ZRgh3nzfnhFDJvPp/hand.gif"), auto !important;
 }
 
+.main-wrapper {
+  padding: 1em;
+  border: 1px solid red;
+  margin: 1rem auto;
+  max-width: 700px;
+}
+
 .main-container {
   max-height: 800px;
-  width: 85vw;
+  width: 100%;
   grid-template-areas:
     "header header header"
     "aside-l main aside-r"
@@ -32,12 +40,13 @@ a, button, input, select {
     "footer footer footer";
   grid-template-columns: 1fr 55% 1fr;
   grid-template-rows: 110px repeat(2, 1fr) 30px;
+  grid-gap: 5px;
 }
 
 .main-container > * {
   height: 100%;
   width: 100%;
-  border: 1px solid red;
+  border: 1px solid black;
 }
 
 .main-container header {
@@ -64,4 +73,44 @@ a, button, input, select {
   overflow: auto;
 }
 
+aside {
+  padding: 0.5rem;
+}
+
+nav header {
+  border-bottom: 1px solid blue;
+  padding: 0.4rem;
+}
+
+nav ul {
+  list-style: none;
+}
+
+nav ul li {
+  flex-shrink: 1;  
+  &:not(:last-child) {
+    border-bottom: 1px solid green;
+  }
+}
+
+nav ul a {
+  display: block;
+  height: 100%;
+  width: 100%;
+  padding: 0.2rem 0.3rem;
+  text-decoration: none;
+}
+
+.box {
+  border: 1px solid red;
+  height: max-content;
+  width: 100%;
+}
+
+@media screen and (max-width: 750px) {
+  .main-container {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+}
 

@@ -1,0 +1,136 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="/assets/main.css" />
+    <title>The web site of muneca</title>
+    <style>    
+      * {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+        font-family: Arial;
+      }  
+      
+      html, body {
+        background: transparent;
+      }
+      
+      body {
+        padding: 0;
+      }
+      
+      .calendar-container {
+        background: pink;
+        width: 200px;
+        border-radius: 10px;
+        box-shadow: inset 0 -5px 10px 2px rgba(255, 255, 255, 0.12);
+        padding: 0.4rem;
+      }
+
+      .calendar-container header {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: center;
+      }
+
+      .calendar-img {
+        height: 20px;
+        width: 100%;
+        border: 2px solid white;
+        border-bottom: none;
+        border-radius: 5px 5px 0 0;
+        background-image: url("https://file.garden/ZRgh3nzfnhFDJvPp/IMG_8110.jpeg");
+        background-size: cover;
+        background-position: center;
+      }
+
+      .calendar-current-date {
+        font-weight: 500;
+        font-size: 0.9em;
+        padding: 0.15rem 0 0.15rem 0.4rem;
+        border-radius: 5px;
+        background: pink;
+        color: white;
+        text-shadow: 1px 0 0 pink, 0 1px 0 pink, -1px 0 0 pink, 0 -1px 0 pink, 0 0 1px pink;
+      }
+
+      .calendar-body {
+        width: 100%;
+        border: 2px solid white;
+        border-radius: 0 0 5px 5px;
+        padding: 0.3rem;
+        background: white;
+      }
+
+      .calendar-body ul {
+        list-style: none;
+        flex-wrap: wrap;
+        display: flex;
+        text-align: center;
+      }
+
+      .calendar-body li {
+        width: calc(100% / 7);
+        font-size: 0.7em;
+        color: #414141;
+        padding: 4px 2px;
+        border: 1px solid pink;
+      } 
+      
+      .calendar-dates {
+        border: 1px solid pink;
+        border-radius: 10px;
+        overflow: hidden;
+      }
+
+      .calendar-body .calendar-weekdays li {
+        cursor: default;
+        color: #888;
+        border-radius: 5px;
+        margin: 0.3rem 0;
+      }
+
+      .calendar-body .calendar-dates li {
+        position: relative;
+        z-index: 1;
+        cursor: pointer;
+      }
+
+      .calendar-dates li.inactive {
+        color: #aaa;
+      } 
+      
+      .calendar-dates li.active {
+        color: pink;
+        font-weight: 900;
+        background: black;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="calendar-container" id="calendar-container">
+      <header class="calendar-header">
+        <figure class="calendar-img"></figure>
+      </header>
+
+      <div class="calendar-body">
+        <p class="calendar-current-date"></p>
+        <ul class="calendar-weekdays">
+          <li>S</li>
+          <li>M</li>
+          <li>T</li>
+          <li>W</li>
+          <li>T</li>
+          <li>F</li>
+          <li>S</li>
+        </ul>
+        <ul class="calendar-dates"></ul>
+      </div>
+    </div>
+    <script src="widgets.js">
+    </script>
+  </body>
+</html>
