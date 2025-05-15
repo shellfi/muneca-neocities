@@ -24,10 +24,11 @@ a, button, input, select {
 }
 
 .main-wrapper {
-  padding: 1em;
+  padding: 1rem;
   border: 1px solid red;
   margin: 1rem auto;
   max-width: 700px;
+  height: max-content;
 }
 
 .main-container {
