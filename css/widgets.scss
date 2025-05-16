@@ -1,0 +1,68 @@
+$main: #ffffff;
+$accent: #000000;
+
+.calendar-container {
+ max-width: 200px;
+}
+
+.calendar-container header {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+}
+
+.calendar-current-date {
+  font-weight: 500;
+  font-size: 0.9em;
+  padding: 0.2rem 0.3rem;
+  background: $main;
+  color: $accent;
+  border: 1px solid $accent;
+}
+
+.calendar-body {
+  width: 100%;
+  background: $main;
+}
+
+.calendar-body ul {
+  list-style: none;
+  flex-wrap: wrap;
+  display: flex;
+  text-align: center;
+}
+
+.calendar-body li {
+  width: calc(100% / 7);
+  font-size: 0.7em;
+  color: $accent;
+  padding: 4px 2px;
+  border: 1px solid $accent;
+}
+
+.calendar-dates {
+    border: 1px solid $accent;
+  overflow: hidden;
+}
+
+.calendar-body .calendar-weekdays li {
+  cursor: default;
+  background: #808080;
+  color: $accent;
+}
+
+.calendar-body .calendar-dates li {
+  position: relative;
+  z-index: 1;
+  cursor: pointer;
+}
+
+.calendar-dates li.inactive {
+  color: #aaa;
+}
+
+.calendar-dates li.active {
+  color: $main;
+  font-weight: 900;
+  background: $accent;
+}

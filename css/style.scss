@@ -7,33 +7,31 @@ $m-color: #f0f0f0;
   cursor: url("https://file.garden/ZRgh3nzfnhFDJvPp/Arrow.png"), auto !important;
 }
 
-html,
-body {
-  overflow-x: hidden;
-  overflow-y: auto;
-}
-
 body {
   height: 100dvh;
   width: 100vw;
   font-family: 'Trebuchet MS';
+  border: 1px solid blue;
+  overflow: auto;
 }
 
 a, button, input, select {
   cursor: url("https://file.garden/ZRgh3nzfnhFDJvPp/hand.gif"), auto !important;
 }
 
+/* ---------------------------- */
+
 .main-wrapper {
   padding: 1rem;
-  border: 1px solid red;
   margin: 1rem auto;
-  width: 900px; /* temporary i swear */
+  border: 1px solid red;
+  max-width: 900px; /* temporary i swear */
   height: max-content;
   overflow: visible;
 }
 
 .main-container {
-  max-height: 800px;
+  height: auto;
   width: 100%;
   grid-template-areas:
     "header header header"
@@ -48,7 +46,7 @@ a, button, input, select {
   height: 100%;
   width: 100%;
   border: 1px solid black;
- }
+}
 
 .main-container header {
   grid-area: header;
@@ -171,4 +169,3 @@ nav ul {
     flex-direction: column !important;
   }
 }
-

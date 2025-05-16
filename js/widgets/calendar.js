@@ -1,29 +1,29 @@
-let date = new Date();
-let year = date.getFullYear();
-let month = date.getMonth();
+export function calendar() {
+  manipulate();
+  displayCal();
+}
 
-const day = document.querySelector(".calendar-dates");
-
-const currdate = document.querySelector(".calendar-current-date");
-
-// Array of month names
-const months = [
-  "January",
-  "February",
-  "March",
-  "April",
-  "May",
-  "June",
-  "July",
-  "August",
-  "September",
-  "October",
-  "November",
-  "December",
-];
-
-// Function to generate the calendar
+// "CONST" Function to generate the calendar
 const manipulate = () => {
+  const months = [
+    "January",
+    "February",
+    "March",
+    "April",
+    "May",
+    "June",
+    "July",
+    "August",
+    "September",
+    "October",
+    "November",
+    "December",
+  ];
+  const day = document.querySelector(".calendar-dates");
+  const currdate = document.querySelector(".calendar-current-date");
+  let date = new Date();
+  let year = date.getFullYear();
+  let month = date.getMonth();
   // Get the first day of the month
   let dayone = new Date(year, month, 1).getDay();
 
@@ -72,30 +72,10 @@ const manipulate = () => {
 
 manipulate();
 
-let height = document.getElementById("calendar-container").clientHeight;
-let width = document.getElementById("calendar-container").clientWidth;
-let h_display = document.getElementById("height");
+function displayCal() {
+  let height = document.getElementById("calendar-container").clientHeight;
+  let width = document.getElementById("calendar-container").clientWidth;
+  let h_display = document.getElementById("height");
 
-h_display.innerHTML = `${height}px, ${width}px`;
-
-function displayTime() {
-  var d = new Date();
-  var hour = d.getHours(); // 0-23
-  var min = d.getMinutes(); // 0-59
-  var sec = d.getSeconds(); // 0-59
-  var amOrPm = "AM";
-  if (hour >= 12) {
-    amOrPm = "PM";
-  }
-  if (hour > 12) {
-    hour = hour - 12;
-  }
-  if (hour < 10) hour = "0" + hour;
-  if (min < 10) min = "0" + min;
-  if (sec < 10) sec = "0" + sec;
-  document.getElementById("clock").innerHTML =
-    hour + ":" + min + ":" + sec + " " + amOrPm;
+  h_display.innerHTML = `${height}px, ${width}px`;
 }
-setInterval(displayTime, 1000);
-
-window.onload = displayTime;

@@ -15,7 +15,7 @@
     <div class="main-wrapper relative">
       <div class="main-container grid">
         <header>
-          <h1>Angela's Webite</h1>
+          <h1>Angela's Website</h1>
         </header>
         <aside class="l flex flex-col">
           <div class="box">
@@ -35,7 +35,7 @@
           </div>
         </aside>
         <main>
-            {{ content | safe }}
+          {{ content | safe }}
         </main>
         <aside class="r flex flex-col">
           <div class="box">
@@ -47,14 +47,26 @@
             <!-- piclog -->
           </div>
           <div class="box">
-            <!-- calendar -->
+            <div class="calendar-container" id="calendar-container">
+              <div class="calendar-body">
+                <p class="calendar-current-date"></p>
+                <ul class="calendar-weekdays">
+                  <li>S</li>
+                  <li>M</li>
+                  <li>T</li>
+                  <li>W</li>
+                  <li>T</li>
+                  <li>F</li>
+                  <li>S</li>
+                </ul>
+                <ul class="calendar-dates"></ul>
+              </div>
+            </div>
           </div>
         </aside>
         <footer></footer>
       </div>
-      <div class="page-doll absolute">
-        example
-      </div>
+      <div class="page-doll absolute">example</div>
     </div>
     <script src="../assets/js/main.js{{ nocache }}" async defer></script>
   </body>
