@@ -87,11 +87,6 @@ aside {
   align-items: start;
 }
 
-nav header {
-  border-bottom: 1px solid blue;
-  padding: 0.4rem;
-}
-
 nav ul {
   list-style: none;
   li {
@@ -116,13 +111,14 @@ nav ul {
   padding: 3%;
 }
 
+.box {
+  border: 1px solid black;
+}
+
 .box header {
   font-size: 1.1em;
   padding: 0.2rem 0 0.2rem 0.4rem;
-}
-
-.box > * {
-  border: 1px solid black;
+  border-bottom: 1px solid blue;
 }
 
 #pg-about-section {

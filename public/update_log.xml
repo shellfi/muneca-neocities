@@ -2,10 +2,10 @@
 <rss version="2.0">
 <channel>
   <title>muneca updates</title>
-  <link>https://muneca.neocities.org/microblog</link>
+  <link>https://muneca.neocities.org/</link>
   <description>muneca updates</description>
   <webMaster>angela</webMaster>
-  <lastBuildDate>Wed, 14 May 2025 15:48:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2025 22:59:22 +0000</lastBuildDate>
   <image>
     <url>/blog/squirrel.jpg</url>
     <title>image</title>
@@ -13,8 +13,15 @@
   </image>
 
   <item>
-    <title>first update log test</title>
-    <pubDate>Wed, 14 May 2025 15:48:22 +0000</pubDate>
+    <title>second test [05/16/25]</title>
+    <pubDate>Sat, 16 May 2025 22:59:22 +0000</pubDate>
+    <link> </link>
+    <description>pretend i updated my site pt 2</description>
+  </item>
+
+  <item>
+    <title>first update log test [05/16/25]</title>
+    <pubDate>Sat, 16 May 2025 22:59:22 +0000</pubDate>
     <link> </link>
     <description>pretend i updated my site</description>
   </item>

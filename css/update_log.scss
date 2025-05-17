@@ -1,0 +1,17 @@
+.feed-title {
+  display: none;
+}
+
+.feed-item-title, .feed-item-desc, #update-log div:last-of-type {
+  padding: 0.5rem;
+}
+
+.feed-item-desc {
+  padding-top: 0;
+  font-size: 0.9em;
+}
+
+#update-log div:last-of-type {
+  font-size: 0.7em;
+  padding-top: 0;
+}
