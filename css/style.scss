@@ -1,4 +1,4 @@
-$spacing: 0.75rem;
+$spacing: 0.31rem;
 $m-color: #f0f0f0;
 
 :root {
@@ -42,7 +42,7 @@ a, button, input, select {
     "aside-l main aside-r"
     "aside-l main aside-r"
     "footer footer footer";
-  grid-template-columns: 1fr 55% 1fr;
+  grid-template-columns: 1fr 53% 1fr;
   grid-template-rows: 180px repeat(2, 1fr) minmax(min-content, max-content);
 }
 

@@ -21,6 +21,7 @@
           <h1>Angela's Website</h1>
         </header>
         <aside class="l flex flex-col">
+          <!-- navigation -->
           <div class="box-wrapper">
             <div class="box">
               <header>navigation</header>
@@ -34,6 +35,7 @@
               </nav>
             </div>
           </div>
+          <!-- stats -->
           <div class="box-wrapper">
             <div class="box">
               <header>stats</header>
@@ -48,11 +50,24 @@
               </p>
             </div>
           </div>
+          <!-- current -->
+          <div class="box-wrapper">
+            <div class="box">
+              <strong>the webmaster is currently interested in</strong>
+              <ul>
+                <li>music:</li>
+                <li>games: rhythm heaven</li>
+                <li>shows: none</li>
+              </ul>
+            </div>
+          </div>
         </aside>
+        <!-- MAIN CONTENT -->
         <main>
           {{ content | safe }}
         </main>
         <aside class="r flex flex-col">
+          <!-- changelog -->
           <div class="box-wrapper">
             <div class="box" id="changelog">
               <header>changelog</header>
@@ -62,10 +77,11 @@
                   <strong>{{ log.date }}</strong>
                   <span>{{ log.text }}</span>
                 </li>
-               {% endfor %}
+                {% endfor %}
               </div>
             </div>
           </div>
+          <!-- piclog -->
           <div class="box-wrapper">
             <div class="box">
               <header>piclog</header>
@@ -76,6 +92,7 @@
               </div>
             </div>
           </div>
+          <!-- calendar -->
           <div class="calendar-container" id="calendar-container">
             <div class="calendar-body">
               <p class="calendar-current-date"></p>
