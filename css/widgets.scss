@@ -66,3 +66,12 @@ $accent: #000000;
   font-weight: 900;
   background: $accent;
 }
+
+#piclog {
+  height: max-content;
+}
+
+#piclog img {
+  width: 100%;
+  height: auto;
+}
