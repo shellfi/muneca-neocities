@@ -9,29 +9,41 @@
       content="my site where I talk about myself, my interests, and upload a bunch of fonts"
     />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="../assets/main.css?nocache=1747440845618" />
+    <link rel="stylesheet" href="../assets/main.css?nocache=1747448892186" />
   </head>
   <body class="flex justify-center align-center">
     <div class="main-wrapper relative">
       <div class="main-container grid">
-        <header>
+        <header class="flex flex-col">
           <h1>Angela's Website</h1>
         </header>
         <aside class="l flex flex-col">
-          <div class="box">
-            <header>navigation</header>
-            <nav aria-label="page navigation">
-              <ul class="flex flex-col">
-                <li><a href="./home">home</a></li>
-                <li><a href="./about">about</a></li>
-                <li><a href="./fonts_a-h">fonts</a></li>
-                <li><a href="./credits">credits</a></li>
-              </ul>
-            </nav>
+          <div class="box-wrapper">
+            <div class="box">
+              <header>navigation</header>
+              <nav aria-label="page navigation">
+                <ul class="flex flex-col">
+                  <li><a href="./home">home</a></li>
+                  <li><a href="./about">about</a></li>
+                  <li><a href="./fonts_a-h">fonts</a></li>
+                  <li><a href="./credits">credits</a></li>
+                </ul>
+              </nav>
+            </div>
           </div>
-          <div class="box">
-            <header>stats</header>
-            <!-- status.cafe, imood -->
+          <div class="box-wrapper">
+            <div class="box">
+              <header>stats</header>
+              <p>
+                Angela is feeling
+                <a href="https://www.imood.com/users/inklimg"
+                  ><img
+                    src="https://moods.imood.com/display/uname-inklimg/imood.gif"
+                    alt="The current mood of inklimg at www.imood.com"
+                    border="0"
+                /></a>
+              </p>
+            </div>
           </div>
         </aside>
         <main>
@@ -780,31 +792,35 @@
 
         </main>
         <aside class="r flex flex-col">
-          <div class="box">
-            <header>update log</header>
-            <!-- rss powered update log -->
-          </div>
-          <div class="box">
-            <header>piclog</header>
-            <div id="piclog" class="w-full">
-              <a href="https://piclog.blue/profile.php?id=1308"><img src="https://piclog.blue/latest.php?id=1308"></a>
+          <div class="box-wrapper">
+            <div class="box">
+              <header>update log</header>
+              <!-- rss powered update log -->
             </div>
           </div>
-          <div class="box">
-            <div class="calendar-container" id="calendar-container">
-              <div class="calendar-body">
-                <p class="calendar-current-date"></p>
-                <ul class="calendar-weekdays">
-                  <li>S</li>
-                  <li>M</li>
-                  <li>T</li>
-                  <li>W</li>
-                  <li>T</li>
-                  <li>F</li>
-                  <li>S</li>
-                </ul>
-                <ul class="calendar-dates"></ul>
+          <div class="box-wrapper">
+            <div class="box">
+              <header>piclog</header>
+              <div id="piclog" class="w-full">
+                <a href="https://piclog.blue/profile.php?id=1308"
+                  ><img src="https://piclog.blue/latest.php?id=1308"
+                /></a>
               </div>
+            </div>
+          </div>
+          <div class="calendar-container" id="calendar-container">
+            <div class="calendar-body">
+              <p class="calendar-current-date"></p>
+              <ul class="calendar-weekdays">
+                <li>S</li>
+                <li>M</li>
+                <li>T</li>
+                <li>W</li>
+                <li>T</li>
+                <li>F</li>
+                <li>S</li>
+              </ul>
+              <ul class="calendar-dates"></ul>
             </div>
           </div>
         </aside>
@@ -812,6 +828,6 @@
       </div>
       <div class="page-doll absolute">example</div>
     </div>
-    <script src="../assets/js/main.js?nocache=1747440845618" async defer></script>
+    <script src="../assets/js/main.js?nocache=1747448892186" async defer></script>
   </body>
 </html>

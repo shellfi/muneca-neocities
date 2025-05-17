@@ -1,5 +1,9 @@
 $m-color: #f0f0f0;
 
+:root {
+  font-size: 16px;
+}
+
 * {
   padding: 0;
   margin: 0;
@@ -11,7 +15,6 @@ body {
   height: 100dvh;
   width: 100vw;
   font-family: 'Trebuchet MS';
-  border: 1px solid blue;
   overflow: auto;
 }
 
@@ -25,7 +28,7 @@ a, button, input, select {
   padding: 1rem;
   margin: 1rem auto;
   border: 1px solid red;
-  max-width: 900px; /* temporary i swear */
+  max-width: 53rem;
   height: max-content;
   overflow: visible;
 }
@@ -48,8 +51,9 @@ a, button, input, select {
   border: 1px solid black;
 }
 
-.main-container header {
+.main-container > header {
   grid-area: header;
+  justify-content: flex-end;
 }
 
 .main-container main {
@@ -78,8 +82,9 @@ aside {
 }
 
 .center-container {
-  padding: 1rem;
+  padding: 0.5rem;
   gap: 0.75rem;
+  align-items: start;
 }
 
 nav header {
@@ -104,19 +109,30 @@ nav ul {
   }
 }
 
-.box {
+.box-wrapper {
   border: 1px solid red;
   height: max-content;
   width: 100%;
+  padding: 3%;
+}
+
+.box header {
+  font-size: 1.1em;
+  padding: 0.2rem 0 0.2rem 0.4rem;
+}
+
+.box > * {
+  border: 1px solid black;
 }
 
 #pg-about-section {
   border: 1px solid black;
   padding: 0.75rem;
+  height: max-content;
 }
 
 #pg-about-section p {
-  height: 200px;
+  height: 12.5rem;
   overflow: auto;
 }
 
