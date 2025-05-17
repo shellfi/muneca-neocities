@@ -1,3 +1,4 @@
+$spacing: 0.75rem;
 $m-color: #f0f0f0;
 
 :root {
@@ -77,13 +78,13 @@ a, button, input, select {
 }
 
 aside {
-  padding: 0.5rem;
-  gap: 0.5rem;
+  padding: $spacing;
+  gap: $spacing;
 }
 
 .center-container {
-  padding: 0.5rem;
-  gap: 0.75rem;
+  padding: $spacing;
+  gap: $spacing;
   align-items: start;
 }
 
@@ -123,7 +124,7 @@ nav ul {
 
 #pg-about-section {
   border: 1px solid black;
-  padding: 0.75rem;
+  padding: $spacing;
   height: max-content;
 }
 

@@ -1,0 +1,82 @@
+html {
+	border: 1px solid orange;
+}
+
+body {
+    border: 1px solid red;
+}
+
+#top_banner {
+	border: 1px solid blue;
+}
+
+#background {
+	background-color: white;
+}
+
+.allMessages {
+	border: 1px solid green;
+}
+
+.received {
+	border: 1px solid purple;
+}
+
+.sent {
+    border: 1px solid yellow;
+}
+
+.msgBody {
+	border: 1px solid brown;
+}
+
+.senderInfo {
+	border: 1px solid indigo;
+}
+
+#loadMore {
+	background: red;
+}
+
+#timestamp {
+	border: 1px solid gray;
+}
+
+#settings {
+	/* Controls the settings icon, use background-image to change icon */
+}
+#scrollToBottom {
+    border: 1px solid black;
+	/* Adjusts the hovering 'scroll to bottom' button */
+}
+.ctxMenuOption {
+    border: 1px solid green;
+	/* Adjusts the options for the menus when right clicking a message */
+}
+
+/*
+.mod, .owner, .beta {
+	 Adjusts the mod, owner, and beta tester badges. 
+}
+#settingsWindow {
+	 Adjusts the background for the settings window 
+}
+.pinned {
+	
+}
+#replyBanner {
+	
+}
+.emoji {
+	 Selects emojis that are inside messages 
+}
+#emojiTray {
+	 Selects the popup box that displays the chat emojis 
+}
+#is_typing {
+	 Adjusts the bubble that appears when someone is typing 
+}
+#input {
+	
+}
+*/
