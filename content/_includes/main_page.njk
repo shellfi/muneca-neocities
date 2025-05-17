@@ -23,7 +23,7 @@
         <aside class="l flex flex-col">
           <!-- navigation -->
           <div class="box-wrapper">
-            <div class="box">
+            <div class="box main-nav">
               <header>navigation</header>
               <nav aria-label="page navigation">
                 <ul class="flex flex-col">
@@ -35,30 +35,43 @@
               </nav>
             </div>
           </div>
-          <!-- stats -->
+          <!-- status -->
           <div class="box-wrapper">
-            <div class="box">
+            <div class="box status">
               <header>stats</header>
-              <p>
-                Angela is feeling
-                <a href="https://www.imood.com/users/inklimg"
-                  ><img
-                    src="https://moods.imood.com/display/uname-inklimg/imood.gif"
-                    alt="The current mood of inklimg at www.imood.com"
-                    border="0"
-                /></a>
-              </p>
+              <div class="inner">
+                <p>
+                  I'm feeling...
+                  <a href="https://www.imood.com/users/inklimg"
+                    ><img
+                      src="https://moods.imood.com/display/uname-inklimg/imood.gif"
+                      alt="The current mood of inklimg at www.imood.com"
+                      border="0"
+                  /></a>
+                </p>
+                <div id="statuscafe">
+                  <div id="statuscafe-username"></div>
+                  <div id="statuscafe-content"></div>
+                  <a href="https://status.cafe"><img src="https://status.cafe/assets/button.png" alt="Status Cafe"/></a>
+                </div>
+                <script
+                  src="https://status.cafe/current-status.js?name=angellll"
+                  defer
+                ></script>
+              </div>
             </div>
           </div>
           <!-- current -->
           <div class="box-wrapper">
-            <div class="box">
-              <strong>the webmaster is currently interested in</strong>
-              <ul>
-                <li>music:</li>
-                <li>games: rhythm heaven</li>
-                <li>shows: none</li>
-              </ul>
+            <div class="box current-interests">
+              <header>current interests</header>
+              <div class="inner">
+                <ul>
+                  <li>music:</li>
+                  <li>games: rhythm heaven</li>
+                  <li>shows: none</li>
+                </ul>
+              </div>
             </div>
           </div>
         </aside>
@@ -69,9 +82,9 @@
         <aside class="r flex flex-col">
           <!-- changelog -->
           <div class="box-wrapper">
-            <div class="box" id="changelog">
+            <div class="box changelog">
               <header>changelog</header>
-              <div class="content">
+              <div class="inner">
                 {% for log in changelog %}
                 <li class="changelog-log">
                   <strong>{{ log.date }}</strong>
@@ -83,12 +96,12 @@
           </div>
           <!-- piclog -->
           <div class="box-wrapper">
-            <div class="box">
+            <div class="box piclog">
               <header>piclog</header>
-              <div id="piclog" class="w-full">
-                <a href="https://piclog.blue/profile.php?id=1308"
-                  ><img src="https://piclog.blue/latest.php?id=1308"
-                /></a>
+              <div id="piclog-img">
+                <a href="https://piclog.blue/profile.php?id=1308">
+                  <img src="https://piclog.blue/latest.php?id=1308" />
+                </a>
               </div>
             </div>
           </div>
@@ -109,9 +122,13 @@
             </div>
           </div>
         </aside>
-        <footer></footer>
+        <footer>
+          <div class="footer-content flex w-full">
+            <span>mu&ntilde;eca</span> | <span>link</span> | <span>link</span> |
+            <span>link</span>
+          </div>
+        </footer>
       </div>
-      <div class="page-doll absolute">example</div>
     </div>
     <script src="../assets/js/main.js{{ nocache }}" async defer></script>
   </body>

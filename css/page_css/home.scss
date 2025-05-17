@@ -1,0 +1,45 @@
+#pg-about-section {
+  border: 1px solid black;
+  padding: $spacing;
+  height: max-content;
+}
+
+#pg-about-section p {
+  height: 12.5rem;
+  overflow: auto;
+}
+
+#blinkies {
+  height: max-content; /* temporary */
+  padding: $spacing;
+  border: 1px solid black;
+}
+
+.marquee {
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+
+.marquee div {
+  display: inline-block;
+  white-space: nowrap;
+  overflow: visible;
+  width: fit-content;
+  animation: marquee 10s infinite linear;
+}
+
+.marquee div span {
+  display: inline-block;
+  border: 1px solid gray;
+  padding: 0.25rem 0.5rem;
+}
+
+@keyframes marquee {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}

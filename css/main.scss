@@ -1,12 +1,12 @@
+@import "./variables";
+
 @import "./style";
-@import "./utility.scss";
+@import "./utility";
 
-@import "./fonts/a_h.css";
-@import "./fonts/i_p.css";
-@import "./fonts/q_z.css";
+@import "./fonts/a_h";
+@import "./fonts/i_p";
+@import "./fonts/q_z";
 
-@import "./widgets.scss";
+@import "./page_css/home";
 
-@import "./changelog.scss";
-
-@import "./scrollbar.scss";
+@import "./widgets";

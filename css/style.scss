@@ -1,6 +1,3 @@
-$spacing: 0.31rem;
-$m-color: #f0f0f0;
-
 :root {
   font-size: 16px;
 }
@@ -28,7 +25,7 @@ a, button, input, select {
 .main-wrapper {
   padding: 1rem;
   margin: 1rem 0;
-  border: 1px solid red;
+  background: lavender;
   max-width: 53rem;
   height: max-content;
   overflow: visible;
@@ -44,12 +41,14 @@ a, button, input, select {
     "footer footer footer";
   grid-template-columns: 1fr 53% 1fr;
   grid-template-rows: 180px repeat(2, 1fr) minmax(min-content, max-content);
+  gap: $spacing;
 }
 
 .main-container > * {
   height: 100%;
   width: 100%;
   border: 1px solid black;
+  background: white;
 }
 
 .main-container > header {
@@ -106,74 +105,37 @@ nav ul {
 }
 
 .box-wrapper {
-  border: 1px solid red;
   height: max-content;
   width: 100%;
-  padding: 3%;
+  /* padding: 3%;
+  background: purple; */
 }
 
-.box {
-  border: 1px solid black;
+.box > * {
+  background: white;
+  border: 1px solid rebeccapurple;
 }
 
 .box header {
+  margin-bottom: 0.5rem;
+  background: lightgray;
   font-size: 1.1em;
   padding: 0.2rem 0 0.2rem 0.4rem;
-  border-bottom: 1px solid blue;
+  border: 1px solid rebeccapurple;
 }
 
-#pg-about-section {
-  border: 1px solid black;
+.inner {
   padding: $spacing;
-  height: max-content;
+  font-size: 0.9em;
 }
 
-#pg-about-section p {
-  height: 12.5rem;
-  overflow: auto;
+footer {
+  padding: $spacing;
 }
 
-#blinkies {
-  height: 3.1rem; /* temporary */
-  border: 1px solid black;
-}
-
-.marquee {
-  overflow: hidden;
-  display: flex;
-  align-items: center;
-}
-
-.marquee div {
-  display: inline-block;
-  white-space: nowrap;
-  overflow: visible;
-  width: fit-content;
-  animation: marquee 10s infinite linear;
-}
-
-.marquee div span {
-  display: inline-block;
-  border: 1px solid gray;
-  padding: 0.25rem 0.5rem;
-}
-
-.page-doll {
-  height: 13rem;
-  width: 8rem;
-  border: 1px solid purple;
-  background: hsla(0, 0%, 100%, 0.75);
-  right: 15%;
-  bottom: 0;
-}
-
-@keyframes marquee {
-  0% {
-    transform: translateX(-100%);
-  }
-  100% {
-    transform: translateX(100%);
-  }
+.footer-content {
+  justify-content: center;
+  gap: 1rem;
 }
 
 @media screen and (max-width: 750px) {

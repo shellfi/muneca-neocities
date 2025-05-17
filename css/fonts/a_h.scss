@@ -1,9 +1,7 @@
-/* ---------------------------------- font imports ---------------------------------- */
+// font imports
 
-/* -----------------
-# ------------------
------------------ */
-
+// # ---------------
+ 
 @font-face {
   font-family: "04B_11";
   src: url("https://file.garden/ZRgh3nzfnhFDJvPp/04B_11.TTF") format("truetype");
@@ -40,10 +38,8 @@
   src: url("https://file.garden/ZRgh3nzfnhFDJvPp/1up.ttf") format("truetype");
 }
 
-/* -----------------
-A ------------------
------------------ */
-
+// A ---------------
+ 
 @font-face {
   font-family: "Adorable Doll";
   src: url("https://file.garden/ZRgh3nzfnhFDJvPp/AdorableDoll.ttf")
@@ -139,9 +135,7 @@ A ------------------
     format("opentype");
 }
 
-/* -----------------
-B ------------------
------------------ */
+// B ---------------
 
 @font-face {
   font-family: "Back Wild";
@@ -200,10 +194,8 @@ B ------------------
   src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Bulito.ttf") format("truetype");
 }
 
-/* -----------------
-C ------------------
------------------ */
-
+// C ---------------
+ 
 @font-face {
   font-family: "Cageroll";
   src: url("https://file.garden/ZRgh3nzfnhFDJvPp/Cageroll-Standard.otf")
@@ -286,9 +278,7 @@ C ------------------
     format("truetype");
 }
 
-/* -----------------
-D ------------------
------------------ */
+// D ---------------
 
 @font-face {
   font-family: "Daily Note";
@@ -377,9 +367,7 @@ D ------------------
     format("opentype");
 }
 
-/* -----------------
-E ------------------
------------------ */
+// E ---------------
 
 @font-face {
   font-family: "Easy 3D";
@@ -405,9 +393,7 @@ E ------------------
     format("opentype");
 }
 
-/* -----------------
-F ------------------
------------------ */
+// F ---------------
 
 @font-face {
   font-family: "Felgine";
@@ -432,9 +418,7 @@ F ------------------
     format("woff2");
 }
 
-/* -----------------
-G ------------------
------------------ */
+// G ---------------
 
 @font-face {
   font-family: "Gemstone";
@@ -506,9 +490,7 @@ G ------------------
     format("opentype");
 }
 
-/* -----------------
-H ------------------
------------------ */
+// H ---------------
 
 @font-face {
   font-family: "Hanazome";
@@ -540,11 +522,9 @@ H ------------------
     format("truetype");
 }
 
-/* ---------------------------------- section fonts ---------------------------------- */
+// section fonts  
 
-/* -----------------
-# ------------------
------------------ */
+// # ---------------
 
 .O4B_11 {
   font-family: "04B_11";
@@ -574,9 +554,7 @@ H ------------------
   font-family: "1up!";
 }
 
-/* -----------------
-A ------------------
------------------ */
+// A ---------------
 
 .adorable-doll {
   font-family: "Adorable Doll";
@@ -642,9 +620,7 @@ A ------------------
   font-family: "Astonia";
 }
 
-/* -----------------
-B ------------------
------------------ */
+// B ---------------
 
 .back-wild {
   font-family: "Back Wild";
@@ -686,9 +662,7 @@ B ------------------
   font-family: "Bulito";
 }
 
-/* -----------------
-C ------------------
------------------ */
+// C ---------------
 
 .cageroll {
   font-family: "Cageroll";
@@ -746,9 +720,8 @@ C ------------------
   font-family: "Cyrivendell";
 }
 
-/* -----------------
-D ------------------
------------------ */
+
+// D --------------- 
 
 .daily-note {
   font-family: "Daily Note";
@@ -810,9 +783,7 @@ D ------------------
   font-family: "Dreamcatcher";
 }
 
-/* -----------------
-E ------------------
------------------ */
+// E --------------- 
 
 .easy-3d {
   font-family: "Easy 3D";
@@ -830,9 +801,7 @@ E ------------------
   font-family: "Excelorate";
 }
 
-/* -----------------
-F ------------------
------------------ */
+// F ---------------
 
 .felgine {
   font-family: "Felgine";
@@ -850,9 +819,7 @@ F ------------------
   font-family: "Funkydori";
 }
 
-/* -----------------
-G ------------------
------------------ */
+// G ---------------
 
 .gemstone {
   font-family: "Gemstone";
@@ -902,9 +869,7 @@ G ------------------
   font-family: "Gravestone";
 }
 
-/* -----------------
-H ------------------
------------------ */
+// H ---------------
 
 .hanazome {
   font-family: "Hanazome";

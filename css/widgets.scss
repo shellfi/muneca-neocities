@@ -1,6 +1,8 @@
 $main: #ffffff;
 $accent: #000000;
 
+/* calendar */
+
 .calendar-container {
  max-width: 200px;
 }
@@ -67,11 +69,51 @@ $accent: #000000;
   background: $accent;
 }
 
-#piclog {
+/* piclog */
+
+#piclog-img {
   height: max-content;
+  a {
+    display: block;
+    line-height: 0;
+  }
+  img {
+    width: 100%;
+    height: auto;
+  }
 }
 
-#piclog img {
-  width: 100%;
-  height: auto;
+/* status.cafe */
+
+#statuscafe {
+  margin-top: $spacing;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 0.25rem;
+}
+
+#statuscafe-username, #statuscafe-content {
+  margin-bottom: 0.5rem;
+}
+
+/* changelog (not really a widget but whatevs) */
+
+.changelog .inner {
+  padding: 0.5rem;
+  max-height: 8rem;
+  overflow: auto;
+  li {
+   list-style: none;
+    margin-bottom: 0.5rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+  strong {
+    display: block;
+  }
+  span {
+    font-size: 0.9em;
+  }
 }
