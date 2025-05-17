@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>muneca updates</title>
+  <link>https://muneca.neocities.org/microblog</link>
+  <description>muneca updates</description>
+  <webMaster>angela</webMaster>
+  <lastBuildDate>Wed, 14 May 2025 15:48:22 +0000</lastBuildDate>
+  <image>
+    <url>/blog/squirrel.jpg</url>
+    <title>image</title>
+    <link>https://muneca.neocities.org</link>
+  </image>
+
+  <item>
+    <title>first update log test</title>
+    <pubDate>Wed, 14 May 2025 15:48:22 +0000</pubDate>
+    <link> </link>
+    <description>pretend i updated my site</description>
+  </item>
+
+</channel>
+</rss>

@@ -42,7 +42,7 @@ a, button, input, select {
     "aside-l main aside-r"
     "footer footer footer";
   grid-template-columns: 1fr 55% 1fr;
-  grid-template-rows: 110px repeat(2, 1fr) minmax(min-content, max-content);
+  grid-template-rows: 180px repeat(2, 1fr) minmax(min-content, max-content);
 }
 
 .main-container > * {
