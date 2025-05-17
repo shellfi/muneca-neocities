@@ -13,10 +13,10 @@ $m-color: #f0f0f0;
 }
 
 body {
-  height: 100dvh;
-  width: 100vw;
+  display: block;
+  min-height: 100%;
+  width: 100%;
   font-family: 'Trebuchet MS';
-  overflow: auto;
 }
 
 a, button, input, select {
@@ -27,7 +27,7 @@ a, button, input, select {
 
 .main-wrapper {
   padding: 1rem;
-  margin: 1rem auto;
+  margin: 1rem 0;
   border: 1px solid red;
   max-width: 53rem;
   height: max-content;
@@ -134,7 +134,7 @@ nav ul {
 }
 
 #blinkies {
-  height: 50px; /* temporary */
+  height: 3.1rem; /* temporary */
   border: 1px solid black;
 }
 
