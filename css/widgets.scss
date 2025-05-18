@@ -80,6 +80,8 @@ $accent: #000000;
   img {
     width: 100%;
     height: auto;
+    object-fit: cover;
+    object-position: 50% top;
   }
 }
 
@@ -87,7 +89,6 @@ $accent: #000000;
 
 #statuscafe {
   margin-top: $spacing;
-  border-radius: 10px;
   border: 1px solid black;
   padding: 0.25rem;
 }

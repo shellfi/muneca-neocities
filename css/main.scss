@@ -1,12 +1,17 @@
+// variables (duh)
 @import "./variables";
 
+// main styles
 @import "./style";
 @import "./utility";
 
+// main pages 
+@import "./page_css/home";
+
+// font pages
 @import "./fonts/a_h";
 @import "./fonts/i_p";
 @import "./fonts/q_z";
 
-@import "./page_css/home";
-
+// extra stuff
 @import "./widgets";
