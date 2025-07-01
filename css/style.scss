@@ -40,7 +40,7 @@ a, button, input, select {
     "aside-l main aside-r"
     "footer footer footer";
   grid-template-columns: 1fr 53% 1fr;
-  grid-template-rows: 180px repeat(2, 1fr) minmax(min-content, max-content);
+  grid-template-rows: 200px repeat(2, 1fr) minmax(min-content, max-content);
   gap: $spacing;
 }
 
@@ -62,6 +62,8 @@ a, button, input, select {
 
 .main-container aside.l {
   grid-area: aside-l;
+  left: -5%;
+  top: -5%;
 }
 
 .main-container aside.r {
