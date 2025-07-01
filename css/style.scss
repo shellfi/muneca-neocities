@@ -41,7 +41,7 @@ a, button, input, select {
     "footer footer footer";
   grid-template-columns: 1fr 53% 1fr;
   grid-template-rows: 200px repeat(2, 1fr) minmax(min-content, max-content);
-  gap: $spacing;
+  gap: 0.75rem;
 }
 
 .main-container > * {
@@ -80,13 +80,13 @@ a, button, input, select {
 }
 
 aside {
-  padding: $spacing;
-  gap: $spacing;
+  padding: 0.75rem;
+  gap: 0.75rem;
 }
 
 .center-container {
-  padding: $spacing;
-  gap: $spacing;
+  padding: 0.75rem;
+  gap: 0.75rem;
   align-items: start;
 }
 
@@ -128,12 +128,12 @@ nav ul {
 }
 
 .inner {
-  padding: $spacing;
+  padding: 0.75rem;
   font-size: 0.9em;
 }
 
 footer {
-  padding: $spacing;
+  padding: 0.75rem;
 }
 
 .footer-content {
