@@ -1,17 +1,17 @@
 // variables (duh)
-@import "./variables";
+@use "./variables";
 
 // main styles
-@import "./style";
-@import "./utility";
+@use "./style";
+@use "./utility";
 
 // main pages 
-@import "./page_css/home";
+@use "./page_css/home";
 
 // font pages
-@import "./fonts/a_h";
-@import "./fonts/i_p";
-@import "./fonts/q_z";
+@use "./fonts/a_h";
+@use "./fonts/i_p";
+@use "./fonts/q_z";
 
 // extra stuff
-@import "./widgets";
+@use "./widgets";
