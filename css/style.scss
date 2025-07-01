@@ -62,7 +62,7 @@ a, button, input, select {
 
 .main-container aside.l {
   grid-area: aside-l;
-  height: fit-content;
+  height: max-content !important;
   left: -5%;
   top: -5%;
 }
