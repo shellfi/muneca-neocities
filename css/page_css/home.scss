@@ -1,10 +1,10 @@
-#pg-about-section {
+.pg-about-section {
   border: 1px solid black;
-  padding: 0.75rem;
+  padding: $spacing;
   height: max-content;
 }
 
-#pg-about-section p {
+.pg-about-section p {
   height: 12.5rem;
   overflow: auto;
 }
