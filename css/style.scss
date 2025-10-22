@@ -14,6 +14,7 @@ body {
   min-height: 100%;
   width: 100%;
   font-family: 'Trebuchet MS';
+  color: #6d6875;
 }
 
 a, button, input, select {
@@ -25,7 +26,7 @@ a, button, input, select {
 .main-wrapper {
   padding: 1rem;
   margin: 1rem 0;
-  background: #F8C43C;
+  background: #ffcdb2;
   max-width: 56.25rem;
   height: max-content;
   overflow: visible;
@@ -47,8 +48,8 @@ a, button, input, select {
 .main-container > * {
   height: 100%;
   width: 100%;
-  border: 1px solid #490960;
-  background: white;
+  border: 1px solid #b5838d;
+  background: #ffb4a2;
 }
 
 .main-container > header {
@@ -102,7 +103,7 @@ nav ul {
   li {
     flex-shrink: 1;  
     &:not(:last-child) {
-     border-bottom: 1px solid #FA265F;
+     border-bottom: 1px solid #e5989b;
     }
   }
   a {
@@ -123,16 +124,15 @@ nav ul {
 
 .box > * {
   background: white;
-  border: 1px solid #F8C43C;
+  border: 1px solid #e5989b;
 }
 
 .box header {
   margin-bottom: 0.5rem;
-  background: #911088;
+  background: #e5989b;
   font-size: 1.1em;
   padding: 0.2rem 0 0.2rem 0.4rem;
-  border: 1px solid #490960;
-  color: white;
+  border: 1px solid #6d6875;
 }
 
 .inner {
