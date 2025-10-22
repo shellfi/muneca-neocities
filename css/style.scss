@@ -25,7 +25,7 @@ a, button, input, select {
 .main-wrapper {
   padding: 1rem;
   margin: 1rem 0;
-  background: lavender;
+  background: #911088;
   max-width: 56.25rem;
   height: max-content;
   overflow: visible;
@@ -47,7 +47,7 @@ a, button, input, select {
 .main-container > * {
   height: 100%;
   width: 100%;
-  border: 1px solid black;
+  border: 1px solid #490960;
   background: white;
 }
 
@@ -102,7 +102,7 @@ nav ul {
   li {
     flex-shrink: 1;  
     &:not(:last-child) {
-     border-bottom: 1px solid green;
+     border-bottom: 1px solid #FA265F;
     }
   }
   a {
@@ -123,15 +123,15 @@ nav ul {
 
 .box > * {
   background: white;
-  border: 1px solid rebeccapurple;
+  border: 1px solid #F8C43C;
 }
 
 .box header {
   margin-bottom: 0.5rem;
-  background: lightgray;
+  background: #FE5C56;
   font-size: 1.1em;
   padding: 0.2rem 0 0.2rem 0.4rem;
-  border: 1px solid rebeccapurple;
+  border: 1px solid #F8C43C;
 }
 
 .inner {
